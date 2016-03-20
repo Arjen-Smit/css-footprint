@@ -1,3 +1,3 @@
 ![CSS-Footprint logo](logo.png)
 
-module for generating a font footprint that can be used to use while the webfont is loading.
+module for generating a font footprint that can be used while the webfont is loading.
